@@ -47,12 +47,5 @@ I enjoy solving complex problems, developing efficient solutions, and exploring 
 ![HVAC](https://img.shields.io/badge/HVAC-Engineering-1565C0?style=for-the-badge)
 
 ##  Contact
-
-<div>
-<a href="mailto:henriqueviananye@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-<a href="https://www.linkedin.com/in/henrique-viana-lima-de-oliveira">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</div>
+henriqueviananye@gmail.com  
+www.linkedin.com/in/henrique-viana-lima-de-oliveira
