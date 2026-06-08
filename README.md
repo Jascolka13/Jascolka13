@@ -18,10 +18,10 @@ I enjoy solving complex problems, developing efficient solutions, and exploring 
 ## GitHub Stats
 
 <div>
-  <a href="https://github.com/Jascolka13">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jascolka13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jascolka13&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
+<a href="https://github.com/Jascolka13">
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jascolka13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jascolka13&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
 </div>
 
 ## Programming Languages
